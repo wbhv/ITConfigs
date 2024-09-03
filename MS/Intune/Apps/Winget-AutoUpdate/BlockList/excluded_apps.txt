@@ -1,4 +1,8 @@
-# Brave.Brave
+# 2024.09.03 - Added some default Apps to exclude
+Google.Chrome*
+Microsoft.Edge*
+Microsoft.Office
+Mozilla.Firefox*
 #
 # 2024.08.09 - Error installing Nvidia.GeForceNow v2.0.66.160
 Nvidia.GeForceNow
