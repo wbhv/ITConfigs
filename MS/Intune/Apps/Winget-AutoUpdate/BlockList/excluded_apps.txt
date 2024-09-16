@@ -4,5 +4,8 @@ Microsoft.Edge*
 Microsoft.Office
 Mozilla.Firefox*
 #
-# 2024.09.16 - Error installing Nvidia.GeForceNow
+# 2024.09.16 - Error updating Nvidia.GeForceNow
 Nvidia.GeForceNow
+#
+# 2024.09.16 - Error updating Microsoft.DevHome
+Microsoft.DevHome
