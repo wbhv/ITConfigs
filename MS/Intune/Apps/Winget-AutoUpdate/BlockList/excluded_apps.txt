@@ -9,3 +9,5 @@ Nvidia.GeForceNow
 #
 # 2024.09.16 - Error updating Microsoft.DevHome
 Microsoft.DevHome
+# 2024.09.18 - Error updating Microsoft.VCLibs
+Microsoft.VCLibs*
